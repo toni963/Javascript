@@ -54,4 +54,5 @@ console.log(checkConsistentOutput(addTwo, 11)); // OUTPUT: inconsistent results
 ```
 
 • Which variable holds the callback function?
+
 • What happens if you invoke the function’s argument?
