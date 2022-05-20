@@ -1,4 +1,4 @@
-**ARRAYS**
+## **ARRAYS**
 
 Organizing and storing data is a foundational concept of programming.
 
