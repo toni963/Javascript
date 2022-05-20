@@ -1,4 +1,6 @@
-/*Great job! By thinking about functions as data, and learning about higher-order functions, you’ve taken important steps in learning to write clean, modular code that takes advantage of JavaScript’s flexibility.
+**HIGHER-ORDER FUNCTIONS REVIEW**
+
+By thinking about functions as data, and learning about higher-order functions, you’ve taken important steps in learning to write clean, modular code that takes advantage of JavaScript’s flexibility.
 
 Let’s review what we learned in this lesson:
 
@@ -13,7 +15,8 @@ Let’s review what we learned in this lesson:
 • A higher-order function is a function that either accepts functions as parameters, returns a function, or both.*/
 
 
-//• What happens if you change the value of 2 in checkA?
+What happens if you change the value of 2 in checkA?
+```javascript
 const addTwo = (num) => {
   return num + 2;
 };
@@ -29,8 +32,7 @@ const checkConsistentOutput = (func, val) => {
 };
 
 console.log(checkConsistentOutput(addTwo, 11)); // OUTPUT: inconsistent results
+```
 
-/*
 • Which variable holds the callback function?
 • What happens if you invoke the function’s argument?
-*/
