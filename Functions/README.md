@@ -1,3 +1,5 @@
+**FUNCTIONS**
+
 When first learning how to calculate the area of a rectangle, there’s a sequence of steps to calculate the correct answer:
 
 	1. Measure the width of the rectangle.
