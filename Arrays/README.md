@@ -1,3 +1,25 @@
+#ARRAYS
+
+Organizing and storing data is a foundational concept of programming.
+
+One way we organize data in real life is by making lists. Let’s make one here:
+
+```
+New Year's Resolutions:
+
+1. Keep a journal 
+2. Take a falconry class
+3. Learn to juggle
+```
+Let’s now write this list in JavaScript, as an array:
+
+```javascript
+let newYearsResolutions = ['Keep a journal', 'Take a falconry class', 'Learn to juggle'];
+```
+
+[Arrays](https://www.codecademy.com/resources/docs/javascript/arrays?page_ref=catalog) are JavaScript’s way of making lists. Arrays can store any data types (including strings, numbers, and booleans). Like lists, arrays are ordered, meaning each item has a numbered position.
+
+
 • Arrays are lists that store data in JavaScript.
 
 • Arrays are created with brackets [].
