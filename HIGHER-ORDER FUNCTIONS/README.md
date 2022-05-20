@@ -1,4 +1,4 @@
-**HIGHER-ORDER FUNCTIONS REVIEW**
+## **HIGHER-ORDER FUNCTIONS REVIEW**
 
 By thinking about functions as data, and learning about higher-order functions, you’ve taken important steps in learning to write clean, modular code that takes advantage of JavaScript’s flexibility.
 
