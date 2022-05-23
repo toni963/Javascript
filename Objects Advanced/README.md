@@ -12,7 +12,7 @@ In this lesson we will cover these topics:
 • creating factory functions.
 • using destructuring techniques.
 
-```
+```javascript
 const robot = {
   model: 'B-4MI',
   mobile: true,
